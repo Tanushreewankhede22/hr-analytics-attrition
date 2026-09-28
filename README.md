@@ -78,7 +78,7 @@ The Power BI dashboard contains:
 - Attrition Rate by Age Group
 - Average Monthly Income by Department
 
-![HR Dashboard](screenshots/dashboard.png)
+![HR Dashboard](dashboard.png)
 
 ## 📁 Project Structure
 
